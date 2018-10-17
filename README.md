@@ -8,4 +8,5 @@
 2.运行说明
 
 i）该项目由Visual Studio 2017建立，运行于Windows 10平台上
+
 ii）请确保Visual Studio IDE中项目属性->常规中的Windows SDK版本为您所用Windows系统SDK的版本，确保平台工具集为v141，并确保字符集为“使用Unicode字符集”
