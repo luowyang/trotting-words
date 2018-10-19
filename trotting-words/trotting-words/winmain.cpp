@@ -1,12 +1,11 @@
 //Description: 显示一个窗口，在窗口中有五行文字，字体分别为楷体、黑体和自定义字体，字号由8到40线性增长，
 //			   每一行的文字相继出现后又消失，而且每一行文字的颜色由GRB(0,0,0)到RGB(255,255,255)线性增长
 //Author: Luo Wenyang
-//Date: 2018/10/18
+//Date: 2018/10/19
 //Environment: 请确保在Visual Studio 2017 IDE中编译，如有其它问题请参看README-运行说明
 
 #include <windows.h>
 #include <tchar.h>
-#include <math.h>
 
 //完成初始化过程：定义并注册窗口类，创建并显示窗口
 //输入程序示例句柄和窗口显示方式
